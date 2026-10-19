@@ -14,6 +14,10 @@ def calcular(caminho: Path) -> dict:
         "confronto_livre": {"flavio": Counter(), "lula": Counter()},
         "confronto_estruturado": {"flavio": Counter(), "lula": Counter()},
     }
+    tipos: dict[str, dict[str, Counter]] = {
+        "confronto_livre": {"flavio": Counter(), "lula": Counter()},
+        "confronto_estruturado": {"flavio": Counter(), "lula": Counter()},
+    }
     vistos = set()
     for linha in caminho.read_text(encoding="utf-8").splitlines():
         if not linha.startswith("| M") and not linha.startswith("| C"):
@@ -30,17 +34,28 @@ def calcular(caminho: Path) -> dict:
                     raise ValueError((ident, classe))
                 grupos["perguntas_iguais"][pessoa][classe] += 1
         else:
-            grupo = "confronto_livre" if int(ident[1:]) <= 8 else "confronto_estruturado"
+            grupo = "confronto_estruturado" if 9 <= int(ident[1:]) <= 12 else "confronto_livre"
             destino = campos[2].split("→")[-1].strip().lower()
             pessoa = "flavio" if destino.startswith("flávio") else "lula" if destino.startswith("lula") else None
             classe = campos[4]
             if not pessoa or classe not in "DPNI":
                 raise ValueError((ident, destino, classe))
             grupos[grupo][pessoa][classe] += 1
-    if len(vistos) != 18:
-        raise ValueError(f"esperados 18 componentes, encontrados {len(vistos)}")
-    return {g: {p: {k: v for k, v in sorted(c.items())} for p,c in pessoas.items()}
-            for g,pessoas in grupos.items()}
+            # tipo do núcleo, contado por quem PERGUNTOU
+            autor = campos[2].split("→")[0].strip().lower()
+            perguntou = "flavio" if autor.startswith("flávio") else "lula" if autor.startswith("lula") else None
+            tipo = campos[6] if len(campos) > 6 else ""
+            if not perguntou or tipo not in {"politica", "posicao", "conduta"}:
+                raise ValueError((ident, autor, tipo))
+            tipos[grupo][perguntou][tipo] += 1
+    if len(vistos) != 34:
+        raise ValueError(f"esperados 34 componentes, encontrados {len(vistos)}")
+    saida = {g: {p: {k: v for k, v in sorted(c.items())} for p,c in pessoas.items()}
+             for g,pessoas in grupos.items()}
+    saida["tipo_das_perguntas_por_quem_perguntou"] = {
+        g: {p: {k: v for k, v in sorted(c.items())} for p, c in pessoas.items()}
+        for g, pessoas in tipos.items()}
+    return saida
 
 
 if __name__ == "__main__":

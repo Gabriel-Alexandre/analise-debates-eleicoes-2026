@@ -16,3 +16,13 @@
 - **Antes:** `SELECAO_C_CONGELADA.md` tratou segurança/justiça como questão comum adicional por presumir que havia ocupado mais tempo combinado de confronto.
 - **Correção:** a primeira execução não produziu uma cronometragem exaustiva e conferida por tema. Logo, a condição de **maior tempo** do §2 do pré-registro não foi demonstrada. A seção de segurança do relatório passa a ser **exploratória**, fora da seleção formal C. As quatro ações F04/F05/L09/L03, cuja duração está em intervalos públicos, permanecem selecionadas. A correção foi feita depois de conhecidos os resultados e de consultadas as fontes externas; por isso não se substitui por outro tema escolhido retrospectivamente.
 
+
+## 19/out/2026 · segunda passada (depois dos resultados da primeira rodada)
+
+Tudo abaixo foi feito **depois** de conhecidos os resultados e as fontes da primeira rodada. Nenhuma regra do pré-registro mudou; o que mudou foi a aplicação. Detalhe, com o antes e o depois: [`AUDITORIA_SEGUNDA_PASSADA.md`](../casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md).
+
+- **C11 de N para D e C12 de N para P**, pela regra já escrita (contestar a premissa é resposta direta; tratar parte do pedido é parcial).
+- **Confronto livre ampliado de 8 para 24 núcleos (C13–C28)**, pela mesma regra de unidade. A primeira lista não tinha percorrido o bloco inteiro. Cada núcleo ganhou o campo `Tipo do núcleo` (política, posição ou conduta), marcado pela pergunta, não pela resposta. `contar_oportunidades.py` passou a contar esse tipo por quem perguntou.
+- **Detalhes verificáveis de cada compromisso** (§2, A do pré-registro), que a primeira rodada não tinha preenchido: `anotacoes/DETALHES_COMPROMISSOS.csv` e `ferramentas/contar_detalhes.py`.
+- **Seleção C mantida como amostra fixada antes das fontes.** As durações anotadas incluíam outros assuntos; sem eles, F04 continua a maior de Flávio, mas a segunda dele e as duas de Lula ficam a poucos segundos de outras ações. O relatório deixa de dizer que são necessariamente as mais longas. As quatro não foram trocadas.
+- **Fontes da investigação C atualizadas** com S19–S29: limite de R$ 10 mil e de atraso da MP 1.393, volume anunciado de R$ 150 bilhões, status da PEC 18/2025 em 14 e 15/out e a ADI 7663.

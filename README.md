@@ -14,9 +14,10 @@ Tempo de fala, número de temas e quantidade de propostas são medidas descritiv
 
 - [Resumo em linguagem simples](casos/2026-10-18-band-lula-flavio/RESUMO_SIMPLES.md)
 - [Relatório completo do debate](casos/2026-10-18-band-lula-flavio/RELATORIO.md)
+- [Segunda passada: o que foi conferido e o que mudou](casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md)
 - [Anotações, resultados e reprodução](casos/2026-10-18-band-lula-flavio/REPRODUCAO.md)
 
-O relatório é uma primeira rodada de análise. A revisão adversarial adicional e o roteiro do vídeo 12 foram reservados pelo autor para outra interação; nenhuma dessas duas etapas é apresentada como feita.
+O relatório passou por uma [segunda passada](casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md) da própria IA em 19/out/2026, que corrigiu classificações, completou o inventário do confronto e anotou os detalhes de cada proposta. Não houve escuta humana integral nem analista independente.
 
 ## Método reutilizável
 

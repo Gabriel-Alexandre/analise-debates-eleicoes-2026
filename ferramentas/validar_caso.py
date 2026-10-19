@@ -10,6 +10,7 @@ from pathlib import Path
 
 from contar_oportunidades import calcular
 from selecionar_propostas import ordenar
+from contar_detalhes import calcular as calcular_detalhes
 
 
 RESULTADOS_VALIDOS = {
@@ -34,6 +35,10 @@ def validar(raiz: Path, caso: Path) -> list[str]:
     publicado_b = json.loads((r / "RESPOSTAS.json").read_text(encoding="utf-8"))
     if esperado_b != publicado_b:
         erros.append("RESPOSTAS.json diverge das oportunidades")
+    esperado_d = calcular_detalhes(a / "COMPROMISSOS.csv", a / "DETALHES_COMPROMISSOS.csv")
+    publicado_d = json.loads((r / "DETALHES.json").read_text(encoding="utf-8"))
+    if esperado_d != publicado_d:
+        erros.append("DETALHES.json diverge das anotações de detalhes")
     selecionados = {ident for lista in esperado_c["selecionados"].values() for ident in lista}
     with (r / "CONDICOES_C.csv").open(encoding="utf-8", newline="") as arquivo:
         linhas = list(csv.DictReader(arquivo))
@@ -51,7 +56,8 @@ def validar(raiz: Path, caso: Path) -> list[str]:
         if f"**{ident};" not in texto_relatorio:
             erros.append(f"{ident} ausente do relatório")
     for documento in (raiz / "README.md", caso / "RELATORIO.md", caso / "RESUMO_SIMPLES.md",
-                      caso / "REPRODUCAO.md"):
+                      caso / "REPRODUCAO.md", caso / "AUDITORIA_SEGUNDA_PASSADA.md",
+                      raiz / "ESTADO.md", raiz / "docs" / "FONTES.md", caso / "anotacoes" / "OPORTUNIDADES.md"):
         for destino in re.findall(r"\]\(([^)]+)\)", documento.read_text(encoding="utf-8")):
             if destino.startswith(("http://", "https://", "#")):
                 continue

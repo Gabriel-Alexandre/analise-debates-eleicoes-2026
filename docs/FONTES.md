@@ -1,6 +1,6 @@
-# Fontes primárias consultadas em 19/out/2026
+# Fontes consultadas em 19/out/2026
 
-Os vínculos abaixo sustentam a **investigação C**, escolhida antes da consulta. O MP4 fornecido é a fonte das falas; a Band é fonte do formato, mas a URL exata de onde Gabriel baixou o arquivo não foi identificada. As páginas podem mudar; o estado legislativo citado é o observado em 19/out/2026.
+S01 a S18 são da primeira rodada; S19 a S29 são fontes secundárias independentes usadas na [segunda passada](../casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md), porque os sites oficiais não abriram no ambiente dela. Os vínculos sustentam a **investigação C**, escolhida antes da consulta. O MP4 fornecido é a fonte das falas; a Band é fonte do formato, mas a URL exata de onde Gabriel baixou o arquivo não foi identificada. As páginas podem mudar; o estado legislativo citado é o observado em 19/out/2026.
 
 | ID | Fonte | Uso restrito |
 |---|---|---|
@@ -22,5 +22,16 @@ Os vínculos abaixo sustentam a **investigação C**, escolhida antes da consult
 | S16 | [Lei 13.260/2016, terrorismo](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm) | Definição legal vigente; rótulo político não altera sozinho o tipo penal. |
 | S17 | [Banco Central, competência do Copom](https://www.bcb.gov.br/htms/copom_normas/a-hist.asp?frame=1) e [LC 179/2021](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp179.htm) | Taxa básica não é fixada unilateralmente por um candidato eleito. |
 | S18 | [TSE, Resolução 23.755/2026](https://www.tse.jus.br/legislacao/compilada/res/2026/resolucao-no-23-755-de-2-de-marco-de-2026) | Limite de não ranquear/recomendar candidaturas por IA descrito em `docs/LIMITE_ELEITORAL.md`. |
+| S19 | [GCmais, 26/set/2026: Desenrola 3.0 para renegociar até R$ 150 bilhões](https://gcmais.com.br/noticias/2026/09/26/governo-lanca-desenrola-3-0-para-renegociar-ate-r-150-bilhoes-em-dividas) | Segunda passada. Volume anunciado de dívidas (face) que o teto de R$ 15 bilhões alcança. |
+| S20 | [Jornal do Brasil, 11/out/2026: quem entra no Desenrola 3.0](https://www.jb.com.br/editorias/2026/10/11/desenrola-3-renegociar-dividas.html) | Segunda passada. Valor original abaixo de R$ 10 mil e atraso de mais de dois anos. |
+| S21 | [Mercado & Consumo, 26/set/2026: como funcionará a compra de dívidas](https://mercadoeconsumo.com.br/26/09/2026/noticias/desenrola-3-0-saiba-como-funcionara-compra-de-dividas-pela-uniao/) | Segunda passada. Atraso de 720 a 1.645 dias, modalidades e desconto repassado; parcelamento pelo CMN. |
+| S22 | [Ranking dos Políticos, checagem do debate da Band](https://ranking.org.br/en/articles/checagem-debate-lula-flavio-bolsonaro-band-2-turno-2026) | Segunda passada. Estoque elegível de R$ 150 bilhões citado contra os R$ 300 bilhões falados; usada só para o número, não para veredito. |
+| S23 | [InfoMoney, 28/mai/2024: Congresso derruba veto e proíbe saidinha](https://www.infomoney.com.br/politica/em-nova-derrota-de-lula-congresso-derruba-veto-e-proibe-saidinha-de-presos/) | Segunda passada. Derrubada do veto e placar das duas Casas. |
+| S24 | [Gazeta do Povo: STF julgará no plenário a ação contra a lei das saidinhas](https://www.gazetadopovo.com.br/republica/plenario-stf-julgara-acao-lei-das-saidinhas-fachin/) | Segunda passada. ADI 7663, relator Fachin; nenhum julgamento localizado até 19/out/2026. |
+| S25 | [Agência Brasil, out/2026: CCJ do Senado conclui votação da PEC da Segurança](https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica) | Segunda passada. Aprovação na CCJ em 14/out; segue ao plenário. |
+| S26 | [Senado Notícias, 15/out/2026: PEC retirada da pauta](https://www12.senado.leg.br/noticias/materias/2026/10/15/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-desta-quinta-feira) | Segunda passada. Sem votação em plenário na data. |
+| S27 | [DJE-TSE, 03/mar/2026: Resolução 23.755 altera a 23.610](https://sintse.tse.jus.br/documentos/2026/Mar/4/diario-da-justica-eletronico-tse-edicao-extraordinaria/resolucao-no-23-755-de-2-de-marco-de-2026-altera-a-resolucao-no-23-610-tse-de-18-de-dezembro-de-2019) | Segunda passada. Publicação oficial da resolução. |
+| S28 | [Conjur, 27/mar/2026: proibir o uso da IA nas eleições viola a Constituição?](https://www.conjur.com.br/2026-mar-27/proibir-o-uso-da-ia-nas-eleicoes-de-2026-viola-a-constituicao/) | Segunda passada. Descreve o §1º-C (IA não pode ranquear candidaturas, mesmo a pedido) e as críticas a ele. |
+| S29 | [IBE, 2026: o que o TSE regulou sobre IA nas eleições](https://blog.ibe.ia.br/blog/tse-regulou-ia-nas-eleicoes-2026/) | Segunda passada. Terceira descrição independente do §1º-C. |
 
 **Ausências documentadas:** não foi localizado no material público consultado custo completo da proposta F04 ou F05, regulamento que realize automaticamente as carências de seis e doze meses, nem autorização na MP 1.393 para uma transferência gratuita geral por Pix a todo devedor. A ausência localizada é limite desta pesquisa; não demonstra inexistência absoluta de outro documento.

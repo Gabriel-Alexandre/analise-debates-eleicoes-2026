@@ -1,5 +1,5 @@
 id,resultado,condicao_principal,fontes
-F04,depende de condição documentada,Carências e alcance a empresas precisam de regra própria e orçamento,S02;S05;S12;S17
+F04,depende de condição documentada,"A MP só cobre dívidas de pessoa física abaixo de R$ 10 mil e com 720 a 1.645 dias de atraso; carências gerais e alcance a empresas precisam de regra própria e orçamento",S02;S05;S12;S17;S20;S21
 F05,depende de condição documentada,Ministério exige reorganização normativa e programa exige custo e critérios,S08;S09;S10;S11;S12;S13
-L09,depende de condição documentada,Leilão previsto ainda depende de edital e verba; Pix geral não consta da MP,S02;S03;S04
-L03,depende de condição documentada,Visita familiar exigiria alteração da lei atual,S06;S07
+L09,depende de condição documentada,"Leilão previsto ainda depende de edital e verba; o teto de R$ 15 bilhões alcança cerca de R$ 150 bilhões em dívidas, não 300; Pix geral não consta da MP",S02;S03;S04;S19;S20;S21;S22
+L03,depende de condição documentada,Visita familiar exigiria alteração da lei atual; ADI 7663 sem julgamento,S06;S07;S23;S24

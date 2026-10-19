@@ -1,0 +1,57 @@
+{
+  "unidade": "compromisso distinto do COMPROMISSOS.csv; campo presente só com palavras na fala e tempo",
+  "compromissos": {
+    "flavio": 18,
+    "lula": 13
+  },
+  "campo_presente": {
+    "flavio": {
+      "mecanismo": 9,
+      "instituicao": 4,
+      "prazo_meta": 7,
+      "recurso_custo": 1,
+      "condicao_legal": 5
+    },
+    "lula": {
+      "mecanismo": 9,
+      "instituicao": 3,
+      "prazo_meta": 5,
+      "recurso_custo": 1,
+      "condicao_legal": 3
+    }
+  },
+  "compromissos_por_numero_de_campos": {
+    "flavio": {
+      "0": 4,
+      "1": 5,
+      "2": 6,
+      "3": 3
+    },
+    "lula": {
+      "0": 3,
+      "1": 3,
+      "2": 5,
+      "4": 2
+    }
+  },
+  "temas": {
+    "flavio": {
+      "seguranca": 9,
+      "economia": 3,
+      "instituicoes": 2,
+      "justica": 1,
+      "protecao_social": 1,
+      "saude": 1,
+      "trabalho": 1
+    },
+    "lula": {
+      "economia": 5,
+      "educacao": 3,
+      "industria": 1,
+      "justica": 1,
+      "saude": 1,
+      "seguranca": 1,
+      "tecnologia": 1
+    }
+  }
+}
