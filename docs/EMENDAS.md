@@ -11,3 +11,8 @@
 - O pré-registro previa classificação temática de toda fala atribuível e métricas de confronto com extração de turnos. A primeira execução conseguiu anotar compromissos e componentes explícitos de pergunta, mas **não fechou** uma taxonomia exaustiva de todos os turnos ou uma cronometragem de temas. Por isso o relatório não publica percentuais de tempo por tema nem uma taxa geral de desempenho. O tempo de fala disponível é estimativa por janelas acústicas de 2 segundos e inclui 1.178 segundos incertos; não equivale à soma precisa de cada fala.
 - Esta limitação foi identificada **depois** das primeiras codificações e da seleção C. Não altera os critérios A/B/C nem a seleção; restringe o alcance dos resultados publicados. Uma classificação exaustiva exigirá completar e conferir o ledger de turnos, preservando esta versão para comparação.
 
+## 19/out/2026 · tema adicional de segurança
+
+- **Antes:** `SELECAO_C_CONGELADA.md` tratou segurança/justiça como questão comum adicional por presumir que havia ocupado mais tempo combinado de confronto.
+- **Correção:** a primeira execução não produziu uma cronometragem exaustiva e conferida por tema. Logo, a condição de **maior tempo** do §2 do pré-registro não foi demonstrada. A seção de segurança do relatório passa a ser **exploratória**, fora da seleção formal C. As quatro ações F04/F05/L09/L03, cuja duração está em intervalos públicos, permanecem selecionadas. A correção foi feita depois de conhecidos os resultados e de consultadas as fontes externas; por isso não se substitui por outro tema escolhido retrospectivamente.
+
