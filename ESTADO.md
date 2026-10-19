@@ -4,7 +4,7 @@
 
 **Segunda passada (19/out, pedida por Gabriel):** [`AUDITORIA_SEGUNDA_PASSADA.md`](casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md). Corrigiu C11 e C12, completou o confronto livre (8 para 24 núcleos, com o tipo de cada pergunta), preencheu os detalhes de cada proposta que o pré-registro pedia, qualificou a seleção C como amostra fixa e atualizou as fontes da MP 1.393, da PEC 18/2025 e da saída temporária. As emendas estão em `docs/EMENDAS.md`.
 
-**Conclusão por tema (19/out, pedida pelo autor):** [`docs/CRITERIOS_DE_CONCLUSAO.md`](docs/CRITERIOS_DE_CONCLUSAO.md) escolhe, por tema e por critério, o caminho mais perto de acontecer (saída temporária: Flávio; dívidas: Lula; segurança: fronteira do Flávio, depois a PEC do Lula; SUS: nenhum), sem escolher candidato.
+**Conclusão por tema (19/out, pedida pelo autor):** [`docs/CRITERIOS_DE_CONCLUSAO.md`](docs/CRITERIOS_DE_CONCLUSAO.md) escolhe, por tema e por critério, o caminho mais perto de acontecer (saída temporária: Flávio; dívidas: Lula; segurança: Flávio, a fronteira, com a PEC do Lula logo depois; SUS: empate). 🔧 **v2 dos critérios (19/out):** o Congresso de 2027 entra como fator da exequibilidade, os pesos ficam ordenados, as perguntas iguais dão 5 a 5, a explicação fica um pouco com o Lula (1,6 contra 1,4 detalhes por proposta) e o confronto livre sai da conta. Sem somar os critérios num vencedor do debate.
 
 **Alcance:** análise de IA com transcrição automática, sem escuta humana integral e sem analista independente. Não há tempo de fala por tema nem placar de tempo; o tempo por janelas acústicas é só contexto. A IA não emite vencedor nominal, conforme `docs/LIMITE_ELEITORAL.md`. O roteiro do vídeo longo 12 mora no repositório privado de documentação do autor.
 

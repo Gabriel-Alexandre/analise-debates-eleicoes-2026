@@ -71,13 +71,15 @@ O pré-registro pedia cinco campos por compromisso, marcados só com palavras na
 
 Pedida pelo autor depois da segunda passada, com os critérios em [`CRITERIOS_DE_CONCLUSAO.md`](../../docs/CRITERIOS_DE_CONCLUSAO.md). **Exequibilidade não é mérito**: diz qual caminho está mais perto de acontecer, não qual é melhor.
 
-- **Saída temporária:** o caminho do Flávio está mais perto da lei de hoje; o do Lula exige lei nova ou decisão do STF.
-- **Dívidas:** o do Lula é o mais executável, porque a MP já existe com teto de despesa; é menor do que o falado e não tem Pix. O do Flávio exige carência geral e inclusão de empresas, sem fonte de recursos dita.
-- **Segurança:** mais perto, as Forças Armadas na fronteira do Flávio (base na LC 97, art. 16-A, depende só do Executivo) e depois a PEC do Lula (emenda à Constituição a um passo do fim); mais longe, a maioridade de 14 anos e a castração química, que exigem mudar a Constituição e não estão tramitando.
-- **SUS:** nenhum.
-- **Por candidato:** explicação parelha (9 e 9 com "como fazer"; as 2 mais detalhadas do Lula), resposta parelha nas 6 perguntas iguais, e os 2 acusaram mais do que propuseram no confronto livre, o Flávio em proporção maior (7 de 10 contra 8 de 14).
+Os critérios ditos antes de aplicar: exequibilidade pesa mais, e dentro dela entra o **Congresso que toma posse em fevereiro de 2027** (265 deputados e 48 senadores pelos partidos que se declaram de direita; maioria nas 2 casas, abaixo dos 3/5 para emenda); explicação e resposta vêm depois; o dinheiro pesa menos; o uso do confronto livre fica fora da conta.
 
-Nenhum lado vence em todos os critérios, e a IA não soma os critérios num vencedor (`LIMITE_ELEITORAL.md`).
+- **Saída temporária: Flávio, com folga.** A posição dele já é a lei; a do Lula exige lei nova (num Congresso mais à direita que o que derrubou o veto) ou decisão do STF.
+- **Dívidas: Lula.** A MP já existe com teto de despesa; é menor do que o falado e não tem Pix. O do Flávio exige carência geral e inclusão de empresas, sem fonte de recursos dita; o Congresso de 2027 ajudaria a lei nova, sem virar o tema.
+- **Segurança: Flávio.** Mais perto, as Forças Armadas na fronteira (base na LC 97, art. 16-A, depende só do Executivo); depois a PEC do Lula (emenda a um passo do fim); mais longe, a maioridade de 14 anos e a castração química, que exigem emenda sem tramitação (faltam 43 votos na Câmara mesmo com o Congresso novo).
+- **SUS: empate por baixo**, sem fonte de recursos dos 2.
+- **Por critério:** exequibilidade, Flávio 2 temas, Lula 1, SUS empate; explicação, **Lula** um pouco (1,6 contra 1,4 detalhes por proposta; as 2 mais detalhadas); perguntas iguais, **5 a 5** (direta 2, em parte 1); dinheiro, empate (0 de 31).
+
+A IA não soma os critérios num vencedor do debate (`LIMITE_ELEITORAL.md`); os pesos e os números estão em `CRITERIOS_DE_CONCLUSAO.md` para quem quiser somar.
 
 ## Medidas de contexto e limites
 

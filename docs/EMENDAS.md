@@ -32,3 +32,11 @@ Tudo abaixo foi feito **depois** de conhecidos os resultados e as fontes da prim
 - **Pedido do autor:** cada achado fecha com uma escolha e o vídeo termina com uma conclusão. O pré-registro (§4) dizia que não haveria soma das dimensões nem vencedor nominal; isso **continua valendo**.
 - **O que entrou:** [`CRITERIOS_DE_CONCLUSAO.md`](CRITERIOS_DE_CONCLUSAO.md), com a escala de exequibilidade (já vigente, decisão do Executivo, lei nova, emenda, não demonstrado) e a escolha por tema e por critério, nunca por candidato. Os critérios foram escritos **depois** de conhecidos os resultados; por isso cada escolha traz a fonte e a escala, para ser refeita por quem discordar.
 - **Fontes novas:** S30 (LC 97/1999, art. 16-A) e S31 (aprovação da PEC 18/2025 na Câmara).
+
+## 19/out/2026 · critérios v2: o Congresso de 2027, os pesos e um nome por tema (depois dos resultados)
+
+- **Pedido do autor**, depois de ler a primeira versão dos critérios: conclusão por tema com quem fica na frente; o Congresso como fator (*"se passar pelo Congresso vai ser mais favorável para o Flávio [...] mais desfavorável para o Lula"*); o dinheiro com peso baixo; o momento das acusações fora da análise.
+- **O que mudou em [`CRITERIOS_DE_CONCLUSAO.md`](CRITERIOS_DE_CONCLUSAO.md):** entrou o fator Congresso dentro da exequibilidade, com a composição de 2027 (S32) aplicada nos 2 sentidos; os pesos passaram a ser ordenados (exequibilidade, depois explicação e resposta, depois dinheiro); o uso do confronto livre saiu da conta; cada tema ganhou um nome ou empate; a resposta às perguntas iguais ganhou conta (direta 2, em parte 1: 5 a 5); a explicação passou a usar detalhes por proposta (1,4 e 1,6). Segurança passou de "misto" para Flávio (a fronteira, com a PEC do Lula logo depois), pela mesma escala já escrita.
+- **O que não mudou:** nenhuma anotação, contagem ou fonte anterior; a vedação de somar os critérios num vencedor do debate (pré-registro §4 e `LIMITE_ELEITORAL.md`).
+- **Ressalva:** tudo isto foi escrito **depois** de conhecidos os resultados, e o fator Congresso foi proposto pelo autor conhecendo o efeito dele; por isso a tabela traz cada número e cada fonte, para ser refeita com outro peso.
+
