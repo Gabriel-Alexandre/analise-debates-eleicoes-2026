@@ -1,0 +1,579 @@
+{
+  "regra": "até duas ações elegíveis por autor; duração dos intervalos anotados; desempate: ocorrências, depois primeira aparição",
+  "todos": [
+    {
+      "id": "F01",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Classificar PCC CV e milícias como narcoterroristas",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          293,
+          305
+        ],
+        [
+          2718,
+          2724
+        ]
+      ],
+      "tempo_apresentacao_s": 18,
+      "numero_ocorrencias": 2,
+      "primeira_aparicao_s": 293
+    },
+    {
+      "id": "F02",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Aplicar endurecimento penal para lideranças de facções",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          332,
+          343
+        ],
+        [
+          5960,
+          5977
+        ]
+      ],
+      "tempo_apresentacao_s": 28,
+      "numero_ocorrencias": 2,
+      "primeira_aparicao_s": 332
+    },
+    {
+      "id": "F03",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Construir mais de meio milhão de vagas prisionais",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          368,
+          389
+        ]
+      ],
+      "tempo_apresentacao_s": 21,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 368
+    },
+    {
+      "id": "F04",
+      "autor": "flavio",
+      "tema": "economia",
+      "acao_resumida": "Comprar dívidas bancárias com desconto e carência para pessoas e empresas",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          660,
+          683
+        ],
+        [
+          4406,
+          4551
+        ]
+      ],
+      "tempo_apresentacao_s": 168,
+      "numero_ocorrencias": 2,
+      "primeira_aparicao_s": 660
+    },
+    {
+      "id": "F05",
+      "autor": "flavio",
+      "tema": "economia",
+      "acao_resumida": "Criar Ministério da Prosperidade e usar Caixa para qualificação formalização e crédito",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          2747,
+          2761
+        ],
+        [
+          4381,
+          4403
+        ],
+        [
+          4554,
+          4579
+        ],
+        [
+          5317,
+          5399
+        ],
+        [
+          6685,
+          6701
+        ]
+      ],
+      "tempo_apresentacao_s": 159,
+      "numero_ocorrencias": 5,
+      "primeira_aparicao_s": 2747
+    },
+    {
+      "id": "F06",
+      "autor": "flavio",
+      "tema": "saude",
+      "acao_resumida": "Integrar prontuário e telemedicina para orientar acesso ao SUS",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          3326,
+          3396
+        ]
+      ],
+      "tempo_apresentacao_s": 70,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 3326
+    },
+    {
+      "id": "F07",
+      "autor": "flavio",
+      "tema": "instituicoes",
+      "acao_resumida": "Prometer autonomia e valorização da Polícia Federal",
+      "elegivel_c": false,
+      "ocorrencias_s": [
+        [
+          1549,
+          1565
+        ]
+      ],
+      "tempo_apresentacao_s": 16,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 1549
+    },
+    {
+      "id": "F08",
+      "autor": "flavio",
+      "tema": "trabalho",
+      "acao_resumida": "Defender fim da escala 6x1",
+      "elegivel_c": false,
+      "ocorrencias_s": [
+        [
+          3804,
+          3829
+        ]
+      ],
+      "tempo_apresentacao_s": 25,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 3804
+    },
+    {
+      "id": "F09",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Empregar Forças Armadas nas fronteiras e Marinha na inspeção portuária",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5683,
+          5739
+        ]
+      ],
+      "tempo_apresentacao_s": 56,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5683
+    },
+    {
+      "id": "F10",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Criar Smart Brasil e instalar mais de um milhão de câmeras em parceria",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5740,
+          5820
+        ]
+      ],
+      "tempo_apresentacao_s": 80,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5740
+    },
+    {
+      "id": "F11",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Operar Cadastro Nacional de Pedófilos",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5822,
+          5852
+        ]
+      ],
+      "tempo_apresentacao_s": 30,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5822
+    },
+    {
+      "id": "F12",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Propor castração química para estupradores",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5902,
+          5922
+        ]
+      ],
+      "tempo_apresentacao_s": 20,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5902
+    },
+    {
+      "id": "F13",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Reduzir maioridade penal para crimes graves",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5941,
+          5963
+        ],
+        [
+          6070,
+          6145
+        ]
+      ],
+      "tempo_apresentacao_s": 97,
+      "numero_ocorrencias": 2,
+      "primeira_aparicao_s": 5941
+    },
+    {
+      "id": "F14",
+      "autor": "flavio",
+      "tema": "seguranca",
+      "acao_resumida": "Elevar pena mínima por roubo de celular",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5966,
+          5988
+        ]
+      ],
+      "tempo_apresentacao_s": 22,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5966
+    },
+    {
+      "id": "F15",
+      "autor": "flavio",
+      "tema": "protecao_social",
+      "acao_resumida": "Manter Bolsa Família e reajuste anunciado",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          4388,
+          4400
+        ]
+      ],
+      "tempo_apresentacao_s": 12,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 4388
+    },
+    {
+      "id": "F16",
+      "autor": "flavio",
+      "tema": "justica",
+      "acao_resumida": "Rejeitar continuidade da saída temporária de presos",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          3663,
+          3706
+        ]
+      ],
+      "tempo_apresentacao_s": 43,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 3663
+    },
+    {
+      "id": "F17",
+      "autor": "flavio",
+      "tema": "economia",
+      "acao_resumida": "Adiar tributo de novo pequeno negócio até gerar receita",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5367,
+          5394
+        ]
+      ],
+      "tempo_apresentacao_s": 27,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5367
+    },
+    {
+      "id": "F18",
+      "autor": "flavio",
+      "tema": "instituicoes",
+      "acao_resumida": "Alterar critério de nomeação para o Supremo",
+      "elegivel_c": false,
+      "ocorrencias_s": [
+        [
+          1518,
+          1548
+        ]
+      ],
+      "tempo_apresentacao_s": 30,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 1518
+    },
+    {
+      "id": "L01",
+      "autor": "lula",
+      "tema": "seguranca",
+      "acao_resumida": "Após PEC criar Ministério da Segurança e coordenar entes",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          466,
+          497
+        ]
+      ],
+      "tempo_apresentacao_s": 31,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 466
+    },
+    {
+      "id": "L02",
+      "autor": "lula",
+      "tema": "educacao",
+      "acao_resumida": "Criar Pé-de-Meia Professor para incentivar futuros docentes",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          2666,
+          2675
+        ]
+      ],
+      "tempo_apresentacao_s": 9,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 2666
+    },
+    {
+      "id": "L03",
+      "autor": "lula",
+      "tema": "justica",
+      "acao_resumida": "Manter saída temporária sob critérios para presos elegíveis",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          3730,
+          3801
+        ]
+      ],
+      "tempo_apresentacao_s": 71,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 3730
+    },
+    {
+      "id": "L04",
+      "autor": "lula",
+      "tema": "economia",
+      "acao_resumida": "Continuar elevar salário mínimo acima da inflação",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          4010,
+          4043
+        ]
+      ],
+      "tempo_apresentacao_s": 33,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 4010
+    },
+    {
+      "id": "L05",
+      "autor": "lula",
+      "tema": "saude",
+      "acao_resumida": "Expandir acesso a especialistas e perseguir diagnóstico e tratamento de câncer em 30 dias",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          4338,
+          4359
+        ]
+      ],
+      "tempo_apresentacao_s": 21,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 4338
+    },
+    {
+      "id": "L06",
+      "autor": "lula",
+      "tema": "industria",
+      "acao_resumida": "Prosseguir investimento federal na Nova Indústria Brasil",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5163,
+          5199
+        ]
+      ],
+      "tempo_apresentacao_s": 36,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5163
+    },
+    {
+      "id": "L07",
+      "autor": "lula",
+      "tema": "tecnologia",
+      "acao_resumida": "Exigir que data centers mantenham parcela de dados sob controle brasileiro",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5202,
+          5238
+        ]
+      ],
+      "tempo_apresentacao_s": 36,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5202
+    },
+    {
+      "id": "L08",
+      "autor": "lula",
+      "tema": "educacao",
+      "acao_resumida": "Formar jovens em engenharia matemática e indústria digital",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5245,
+          5276
+        ]
+      ],
+      "tempo_apresentacao_s": 31,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 5245
+    },
+    {
+      "id": "L09",
+      "autor": "lula",
+      "tema": "economia",
+      "acao_resumida": "Comprar dívidas em leilão e oferecer descontos e recomeço financeiro",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          5998,
+          6049
+        ],
+        [
+          6200,
+          6223
+        ]
+      ],
+      "tempo_apresentacao_s": 74,
+      "numero_ocorrencias": 2,
+      "primeira_aparicao_s": 5998
+    },
+    {
+      "id": "L10",
+      "autor": "lula",
+      "tema": "educacao",
+      "acao_resumida": "Implantar universidade indígena em Brasília",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          6310,
+          6325
+        ]
+      ],
+      "tempo_apresentacao_s": 15,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 6310
+    },
+    {
+      "id": "L11",
+      "autor": "lula",
+      "tema": "economia",
+      "acao_resumida": "Manter empresas estatais fortes em vez de privatizar",
+      "elegivel_c": true,
+      "ocorrencias_s": [
+        [
+          6533,
+          6591
+        ]
+      ],
+      "tempo_apresentacao_s": 58,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 6533
+    },
+    {
+      "id": "L12",
+      "autor": "lula",
+      "tema": "economia",
+      "acao_resumida": "Promover economia digital verde e criativa",
+      "elegivel_c": false,
+      "ocorrencias_s": [
+        [
+          583,
+          595
+        ]
+      ],
+      "tempo_apresentacao_s": 12,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 583
+    },
+    {
+      "id": "L13",
+      "autor": "lula",
+      "tema": "economia",
+      "acao_resumida": "Manter subsídio a combustíveis em resposta a choques externos",
+      "elegivel_c": false,
+      "ocorrencias_s": [
+        [
+          4043,
+          4065
+        ]
+      ],
+      "tempo_apresentacao_s": 22,
+      "numero_ocorrencias": 1,
+      "primeira_aparicao_s": 4043
+    }
+  ],
+  "selecionados": {
+    "flavio": [
+      "F04",
+      "F05"
+    ],
+    "lula": [
+      "L09",
+      "L03"
+    ]
+  },
+  "ranking_elegiveis": {
+    "flavio": [
+      "F04",
+      "F05",
+      "F13",
+      "F10",
+      "F06",
+      "F09",
+      "F16",
+      "F11",
+      "F02",
+      "F17",
+      "F14",
+      "F03",
+      "F12",
+      "F01",
+      "F15"
+    ],
+    "lula": [
+      "L09",
+      "L03",
+      "L11",
+      "L06",
+      "L07",
+      "L04",
+      "L01",
+      "L08",
+      "L05",
+      "L10",
+      "L02"
+    ]
+  }
+}

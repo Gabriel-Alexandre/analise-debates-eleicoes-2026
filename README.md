@@ -17,7 +17,7 @@ Tempo de fala, número de temas e quantidade de propostas são medidas descritiv
 - [`casos/2026-10-18-band-lula-flavio/ORIGEM.md`](casos/2026-10-18-band-lula-flavio/ORIGEM.md): procedência e limite do arquivo recebido.
 - [`ESTADO.md`](ESTADO.md): etapa concluída e artefatos disponíveis.
 
-O MP4 e o WAV ficam fora do Git. Textos de terceiros são identificados como tais e não recebem a licença do texto autoral deste projeto. A transcrição automática deve ser conferida no áudio antes de qualquer citação pública.
+O MP4, o WAV e a transcrição integral ficam fora do Git público. A transcrição está preservada localmente e no repositório privado de documentação do vídeo 12. Aqui são publicados o método, as anotações derivadas, tempos de localização e citações curtas conferidas. Textos de terceiros são identificados como tais e não recebem a licença do texto autoral deste projeto.
 
 ## Código e texto
 

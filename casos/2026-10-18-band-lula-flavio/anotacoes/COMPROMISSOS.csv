@@ -1,0 +1,32 @@
+id,autor,tema,acao_resumida,elegivel_c,ocorrencias
+F01,flavio,seguranca,Classificar PCC CV e milícias como narcoterroristas,sim,04:53-05:05;45:18-45:24
+F02,flavio,seguranca,Aplicar endurecimento penal para lideranças de facções,sim,05:32-05:43;99:20-99:37
+F03,flavio,seguranca,Construir mais de meio milhão de vagas prisionais,sim,06:08-06:29
+F04,flavio,economia,Comprar dívidas bancárias com desconto e carência para pessoas e empresas,sim,11:00-11:23;73:26-75:51
+F05,flavio,economia,Criar Ministério da Prosperidade e usar Caixa para qualificação formalização e crédito,sim,45:47-46:01;73:01-73:23;75:54-76:19;88:37-89:59;111:25-111:41
+F06,flavio,saude,Integrar prontuário e telemedicina para orientar acesso ao SUS,sim,55:26-56:36
+F07,flavio,instituicoes,Prometer autonomia e valorização da Polícia Federal,nao,25:49-26:05
+F08,flavio,trabalho,Defender fim da escala 6x1,nao,63:24-63:49
+F09,flavio,seguranca,Empregar Forças Armadas nas fronteiras e Marinha na inspeção portuária,sim,94:43-95:39
+F10,flavio,seguranca,Criar Smart Brasil e instalar mais de um milhão de câmeras em parceria,sim,95:40-97:00
+F11,flavio,seguranca,Operar Cadastro Nacional de Pedófilos,sim,97:02-97:32
+F12,flavio,seguranca,Propor castração química para estupradores,sim,98:22-98:42
+F13,flavio,seguranca,Reduzir maioridade penal para crimes graves,sim,99:01-99:23;101:10-102:25
+F14,flavio,seguranca,Elevar pena mínima por roubo de celular,sim,99:26-99:48
+F15,flavio,protecao_social,Manter Bolsa Família e reajuste anunciado,sim,73:08-73:20
+F16,flavio,justica,Rejeitar continuidade da saída temporária de presos,sim,61:03-61:46
+F17,flavio,economia,Adiar tributo de novo pequeno negócio até gerar receita,sim,89:27-89:54
+F18,flavio,instituicoes,Alterar critério de nomeação para o Supremo,nao,25:18-25:48
+L01,lula,seguranca,Após PEC criar Ministério da Segurança e coordenar entes,sim,07:46-08:17
+L02,lula,educacao,Criar Pé-de-Meia Professor para incentivar futuros docentes,sim,44:26-44:35
+L03,lula,justica,Manter saída temporária sob critérios para presos elegíveis,sim,62:10-63:21
+L04,lula,economia,Continuar elevar salário mínimo acima da inflação,sim,66:50-67:23
+L05,lula,saude,Expandir acesso a especialistas e perseguir diagnóstico e tratamento de câncer em 30 dias,sim,72:18-72:39
+L06,lula,industria,Prosseguir investimento federal na Nova Indústria Brasil,sim,86:03-86:39
+L07,lula,tecnologia,Exigir que data centers mantenham parcela de dados sob controle brasileiro,sim,86:42-87:18
+L08,lula,educacao,Formar jovens em engenharia matemática e indústria digital,sim,87:25-87:56
+L09,lula,economia,Comprar dívidas em leilão e oferecer descontos e recomeço financeiro,sim,99:58-100:49;103:20-103:43
+L10,lula,educacao,Implantar universidade indígena em Brasília,sim,105:10-105:25
+L11,lula,economia,Manter empresas estatais fortes em vez de privatizar,sim,108:53-109:51
+L12,lula,economia,Promover economia digital verde e criativa,nao,09:43-09:55
+L13,lula,economia,Manter subsídio a combustíveis em resposta a choques externos,nao,67:23-67:45

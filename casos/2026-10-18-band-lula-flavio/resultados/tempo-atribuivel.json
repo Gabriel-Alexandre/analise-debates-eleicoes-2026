@@ -1,0 +1,90 @@
+{
+  "unidade": "rótulo de janela a cada 2 s; não é cronometragem manual de cada frase",
+  "amostra_visual": "1039 de 1044 janelas com plano visual puro concordaram com o rótulo acústico; planos mistos excluídos",
+  "aviso": "incerto inclui mediadores, silêncios curtos, transições e sobreposições; números de candidato são apenas fala atribuível neste procedimento",
+  "etapas": [
+    {
+      "nome": "perguntas_iniciais",
+      "inicio_s": 195,
+      "fim_s": 753,
+      "segundos_janelas": {
+        "flavio": 230,
+        "lula": 154,
+        "incerto": 174,
+        "silencio": 0
+      }
+    },
+    {
+      "nome": "confronto_livre",
+      "inicio_s": 753,
+      "fim_s": 2765,
+      "segundos_janelas": {
+        "flavio": 894,
+        "lula": 786,
+        "incerto": 330,
+        "silencio": 0
+      }
+    },
+    {
+      "nome": "pergunta_saude",
+      "inicio_s": 3210,
+      "fim_s": 3600,
+      "segundos_janelas": {
+        "flavio": 120,
+        "lula": 112,
+        "incerto": 158,
+        "silencio": 0
+      }
+    },
+    {
+      "nome": "confronto_2",
+      "inicio_s": 3600,
+      "fim_s": 4580,
+      "segundos_janelas": {
+        "flavio": 442,
+        "lula": 424,
+        "incerto": 112,
+        "silencio": 0
+      }
+    },
+    {
+      "nome": "pergunta_produtividade",
+      "inicio_s": 5030,
+      "fim_s": 5400,
+      "segundos_janelas": {
+        "flavio": 112,
+        "lula": 116,
+        "incerto": 142,
+        "silencio": 0
+      }
+    },
+    {
+      "nome": "confronto_3",
+      "inicio_s": 5400,
+      "fim_s": 6360,
+      "segundos_janelas": {
+        "flavio": 444,
+        "lula": 396,
+        "incerto": 120,
+        "silencio": 0
+      }
+    },
+    {
+      "nome": "consideracoes_finais",
+      "inicio_s": 6360,
+      "fim_s": 6740,
+      "segundos_janelas": {
+        "flavio": 106,
+        "lula": 132,
+        "incerto": 142,
+        "silencio": 0
+      }
+    }
+  ],
+  "totais_segundos_janelas": {
+    "flavio": 2348,
+    "lula": 2120,
+    "incerto": 1178,
+    "silencio": 0
+  }
+}
