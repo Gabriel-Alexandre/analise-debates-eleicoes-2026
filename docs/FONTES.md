@@ -1,6 +1,6 @@
 # Fontes consultadas em 19/out/2026
 
-S01 a S18 são da primeira rodada; S19 a S29 são fontes secundárias independentes usadas na [segunda passada](../casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md), porque os sites oficiais não abriram no ambiente dela. Os vínculos sustentam a **investigação C**, escolhida antes da consulta. O MP4 fornecido é a fonte das falas; a Band é fonte do formato, mas a URL exata de onde Gabriel baixou o arquivo não foi identificada. As páginas podem mudar; o estado legislativo citado é o observado em 19/out/2026.
+S01 a S18 são da primeira rodada; S19 a S31 são fontes secundárias independentes usadas na [segunda passada](../casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md), porque os sites oficiais não abriram no ambiente dela. Os vínculos sustentam a **investigação C**, escolhida antes da consulta. O MP4 fornecido é a fonte das falas; a Band é fonte do formato, mas a URL exata de onde Gabriel baixou o arquivo não foi identificada. As páginas podem mudar; o estado legislativo citado é o observado em 19/out/2026.
 
 | ID | Fonte | Uso restrito |
 |---|---|---|
@@ -33,5 +33,8 @@ S01 a S18 são da primeira rodada; S19 a S29 são fontes secundárias independen
 | S27 | [DJE-TSE, 03/mar/2026: Resolução 23.755 altera a 23.610](https://sintse.tse.jus.br/documentos/2026/Mar/4/diario-da-justica-eletronico-tse-edicao-extraordinaria/resolucao-no-23-755-de-2-de-marco-de-2026-altera-a-resolucao-no-23-610-tse-de-18-de-dezembro-de-2019) | Segunda passada. Publicação oficial da resolução. |
 | S28 | [Conjur, 27/mar/2026: proibir o uso da IA nas eleições viola a Constituição?](https://www.conjur.com.br/2026-mar-27/proibir-o-uso-da-ia-nas-eleicoes-de-2026-viola-a-constituicao/) | Segunda passada. Descreve o §1º-C (IA não pode ranquear candidaturas, mesmo a pedido) e as críticas a ele. |
 | S29 | [IBE, 2026: o que o TSE regulou sobre IA nas eleições](https://blog.ibe.ia.br/blog/tse-regulou-ia-nas-eleicoes-2026/) | Segunda passada. Terceira descrição independente do §1º-C. |
+
+| S30 | [LC 97/1999, art. 16-A (incluído pela LC 136/2010)](https://modeloinicial.com.br/lei/LCP-97-1999/lei-complementar-97/art-16-A) e [Revista do Exército, análise do poder de polícia na faixa de fronteira](https://ebrevistas.eb.mil.br/REB/article/download/2546/2021) | Critérios de conclusão. As Forças Armadas já têm base legal para ações preventivas e repressivas na faixa de fronteira, de forma subsidiária. |
+| S31 | [Congresso em Foco: PEC da Segurança parada no Senado depois da aprovação na Câmara](https://www.congressoemfoco.com.br/noticia/118276/pec-da-seguranca-emperra-no-senado-50-dias-apos-aprovacao-na-camara) e [Poder360: Senado votará a PEC](https://www.poder360.com.br/poder-congresso/senado-votara-pec-da-seguranca-na-5a-feira/) | Critérios de conclusão. Aprovação na Câmara em março de 2026 (487 a 15 e 461 a 14). |
 
 **Ausências documentadas:** não foi localizado no material público consultado custo completo da proposta F04 ou F05, regulamento que realize automaticamente as carências de seis e doze meses, nem autorização na MP 1.393 para uma transferência gratuita geral por Pix a todo devedor. A ausência localizada é limite desta pesquisa; não demonstra inexistência absoluta de outro documento.

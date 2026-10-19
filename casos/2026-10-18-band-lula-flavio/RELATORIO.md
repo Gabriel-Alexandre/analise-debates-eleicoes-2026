@@ -67,6 +67,18 @@ O pré-registro pedia cinco campos por compromisso, marcados só com palavras na
 
 **Nenhuma das 31 propostas veio com o próprio custo.** Os dois únicos valores em dinheiro foram um "espaço no orçamento de mais de 200 bilhões" citado por Flávio para ajudar a pagar dívidas (11:06) e os R$ 725 bilhões já investidos na Nova Indústria Brasil, citados por Lula (86:20). Nenhuma proposta trouxe os cinco campos. **Temas:** 9 das 18 propostas de Flávio são de segurança; as de Lula se distribuem entre economia (5), educação (3) e outros temas. São contagens de unidades definidas pelo protocolo, sem medir importância ou qualidade.
 
+## Conclusão por tema e por critério
+
+Pedida pelo autor depois da segunda passada, com os critérios em [`CRITERIOS_DE_CONCLUSAO.md`](../../docs/CRITERIOS_DE_CONCLUSAO.md). **Exequibilidade não é mérito**: diz qual caminho está mais perto de acontecer, não qual é melhor.
+
+- **Saída temporária:** o caminho do Flávio está mais perto da lei de hoje; o do Lula exige lei nova ou decisão do STF.
+- **Dívidas:** o do Lula é o mais executável, porque a MP já existe com teto de despesa; é menor do que o falado e não tem Pix. O do Flávio exige carência geral e inclusão de empresas, sem fonte de recursos dita.
+- **Segurança:** mais perto, as Forças Armadas na fronteira do Flávio (base na LC 97, art. 16-A, depende só do Executivo) e depois a PEC do Lula (emenda à Constituição a um passo do fim); mais longe, a maioridade de 14 anos e a castração química, que exigem mudar a Constituição e não estão tramitando.
+- **SUS:** nenhum.
+- **Por candidato:** explicação parelha (9 e 9 com "como fazer"; as 2 mais detalhadas do Lula), resposta parelha nas 6 perguntas iguais, e os 2 acusaram mais do que propuseram no confronto livre, o Flávio em proporção maior (7 de 10 contra 8 de 14).
+
+Nenhum lado vence em todos os critérios, e a IA não soma os critérios num vencedor (`LIMITE_ELEITORAL.md`).
+
 ## Medidas de contexto e limites
 
 O resumo por janelas acústicas de dois segundos encontrou **39:08** atribuíveis a Flávio e **35:20** a Lula nos blocos incluídos, com **19:38 incertos**, incluindo mediadores, sobreposições e transições. Na amostra de planos visuais puros, 1.039 de 1.044 rótulos coincidiram com o áudio; isso não resolve os segundos incertos. Intervalos comerciais foram excluídos. São cobertura de um procedimento de diarização, **não duração exata de fala de cada candidato**; nenhuma vantagem se infere da diferença. [Saída recontável](resultados/tempo-atribuivel.json).

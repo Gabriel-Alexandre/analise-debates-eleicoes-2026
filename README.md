@@ -27,6 +27,7 @@ O relatório passou por uma [segunda passada](casos/2026-10-18-band-lula-flavio/
 - [`ESTADO.md`](ESTADO.md): etapa concluída e artefatos disponíveis.
 - [`docs/GUIA_NOVO_DEBATE.md`](docs/GUIA_NOVO_DEBATE.md): abrir o próximo caso sem herdar as escolhas de saliência deste.
 - [`docs/LIMITE_ELEITORAL.md`](docs/LIMITE_ELEITORAL.md): limite da saída automatizada em ano eleitoral.
+- [`docs/CRITERIOS_DE_CONCLUSAO.md`](docs/CRITERIOS_DE_CONCLUSAO.md): como cada tema fecha numa escolha por critério, sem escolher candidato.
 
 O MP4, o WAV e a transcrição integral ficam fora do Git público. A transcrição está preservada localmente e no repositório privado de documentação do vídeo 12. Aqui são publicados o método, as anotações derivadas, tempos de localização e análise original em paráfrases. Citações literais de terceiro só serão publicadas após conferência do áudio. Textos de terceiros são identificados como tais e não recebem a licença do texto autoral deste projeto.
 

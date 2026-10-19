@@ -4,6 +4,8 @@
 
 **Segunda passada (19/out, pedida por Gabriel):** [`AUDITORIA_SEGUNDA_PASSADA.md`](casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md). Corrigiu C11 e C12, completou o confronto livre (8 para 24 núcleos, com o tipo de cada pergunta), preencheu os detalhes de cada proposta que o pré-registro pedia, qualificou a seleção C como amostra fixa e atualizou as fontes da MP 1.393, da PEC 18/2025 e da saída temporária. As emendas estão em `docs/EMENDAS.md`.
 
+**Conclusão por tema (19/out, pedida pelo autor):** [`docs/CRITERIOS_DE_CONCLUSAO.md`](docs/CRITERIOS_DE_CONCLUSAO.md) escolhe, por tema e por critério, o caminho mais perto de acontecer (saída temporária: Flávio; dívidas: Lula; segurança: fronteira do Flávio, depois a PEC do Lula; SUS: nenhum), sem escolher candidato.
+
 **Alcance:** análise de IA com transcrição automática, sem escuta humana integral e sem analista independente. Não há tempo de fala por tema nem placar de tempo; o tempo por janelas acústicas é só contexto. A IA não emite vencedor nominal, conforme `docs/LIMITE_ELEITORAL.md`. O roteiro do vídeo longo 12 mora no repositório privado de documentação do autor.
 
 **Próximo caso:** seguir `docs/GUIA_NOVO_DEBATE.md`, com o passo da segunda passada (inventário completo do confronto e detalhes de cada proposta) já na primeira rodada.

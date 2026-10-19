@@ -26,3 +26,9 @@ Tudo abaixo foi feito **depois** de conhecidos os resultados e as fontes da prim
 - **Detalhes verificáveis de cada compromisso** (§2, A do pré-registro), que a primeira rodada não tinha preenchido: `anotacoes/DETALHES_COMPROMISSOS.csv` e `ferramentas/contar_detalhes.py`.
 - **Seleção C mantida como amostra fixada antes das fontes.** As durações anotadas incluíam outros assuntos; sem eles, F04 continua a maior de Flávio, mas a segunda dele e as duas de Lula ficam a poucos segundos de outras ações. O relatório deixa de dizer que são necessariamente as mais longas. As quatro não foram trocadas.
 - **Fontes da investigação C atualizadas** com S19–S29: limite de R$ 10 mil e de atraso da MP 1.393, volume anunciado de R$ 150 bilhões, status da PEC 18/2025 em 14 e 15/out e a ADI 7663.
+
+## 19/out/2026 · critérios de conclusão por tema (depois dos resultados)
+
+- **Pedido do autor:** cada achado fecha com uma escolha e o vídeo termina com uma conclusão. O pré-registro (§4) dizia que não haveria soma das dimensões nem vencedor nominal; isso **continua valendo**.
+- **O que entrou:** [`CRITERIOS_DE_CONCLUSAO.md`](CRITERIOS_DE_CONCLUSAO.md), com a escala de exequibilidade (já vigente, decisão do Executivo, lei nova, emenda, não demonstrado) e a escolha por tema e por critério, nunca por candidato. Os critérios foram escritos **depois** de conhecidos os resultados; por isso cada escolha traz a fonte e a escala, para ser refeita por quem discordar.
+- **Fontes novas:** S30 (LC 97/1999, art. 16-A) e S31 (aprovação da PEC 18/2025 na Câmara).
