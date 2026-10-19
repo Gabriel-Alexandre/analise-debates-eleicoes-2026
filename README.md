@@ -10,14 +10,24 @@ O estudo separa três perguntas:
 
 Tempo de fala, número de temas e quantidade de propostas são medidas descritivas. Não equivalem por si a qualidade de governo. A análise de cada dimensão vem com denominador, exemplo e tempo no vídeo. O projeto não avalia intenção privada, recomendação de voto ou mérito geral das candidaturas.
 
-## Comece aqui
+## Primeiro caso publicado
+
+- [Resumo em linguagem simples](casos/2026-10-18-band-lula-flavio/RESUMO_SIMPLES.md)
+- [Relatório completo do debate](casos/2026-10-18-band-lula-flavio/RELATORIO.md)
+- [Anotações, resultados e reprodução](casos/2026-10-18-band-lula-flavio/REPRODUCAO.md)
+
+O relatório é uma primeira rodada de análise. A revisão adversarial adicional e o roteiro do vídeo 12 foram reservados pelo autor para outra interação; nenhuma dessas duas etapas é apresentada como feita.
+
+## Método reutilizável
 
 - [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md): critérios fixados antes da codificação sistemática do primeiro caso.
 - [`docs/METODOLOGIA.md`](docs/METODOLOGIA.md): unidades, campos e verificações.
 - [`casos/2026-10-18-band-lula-flavio/ORIGEM.md`](casos/2026-10-18-band-lula-flavio/ORIGEM.md): procedência e limite do arquivo recebido.
 - [`ESTADO.md`](ESTADO.md): etapa concluída e artefatos disponíveis.
+- [`docs/GUIA_NOVO_DEBATE.md`](docs/GUIA_NOVO_DEBATE.md): abrir o próximo caso sem herdar as escolhas de saliência deste.
+- [`docs/LIMITE_ELEITORAL.md`](docs/LIMITE_ELEITORAL.md): limite da saída automatizada em ano eleitoral.
 
-O MP4, o WAV e a transcrição integral ficam fora do Git público. A transcrição está preservada localmente e no repositório privado de documentação do vídeo 12. Aqui são publicados o método, as anotações derivadas, tempos de localização e citações curtas conferidas. Textos de terceiros são identificados como tais e não recebem a licença do texto autoral deste projeto.
+O MP4, o WAV e a transcrição integral ficam fora do Git público. A transcrição está preservada localmente e no repositório privado de documentação do vídeo 12. Aqui são publicados o método, as anotações derivadas, tempos de localização e análise original em paráfrases. Citações literais de terceiro só serão publicadas após conferência do áudio. Textos de terceiros são identificados como tais e não recebem a licença do texto autoral deste projeto.
 
 ## Código e texto
 

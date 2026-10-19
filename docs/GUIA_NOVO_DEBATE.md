@@ -1,0 +1,14 @@
+# Abrir um debate seguinte
+
+Este guia reaproveita **perguntas e código**. Não copia a lista de propostas nem o resultado do primeiro caso.
+
+1. Criar `casos/AAAA-MM-DD-emissora-participantes/ORIGEM.md`. Registrar quem entregou o arquivo, URL/canal se houver, hash SHA-256, duração, codec, lacunas e se a igualdade com uma gravação oficial foi verificada. Manter mídia e transcrição de terceiros fora do Git público.
+2. Registrar antes da codificação as mudanças de formato, blocos, tempo e participantes. Se os critérios A/B/C precisarem mudar, publicar novo pré-registro do caso **antes dos resultados**, com data; não editar silenciosamente o do caso anterior.
+3. Transcrever com tempo, comparar trechos difíceis com áudio e deixar o campo de falante em branco quando não houver evidência. Publicar apenas dados derivados e citações curtas conferidas, respeitando direitos de terceiros.
+4. Marcar cada oportunidade de pergunta, inclusive `I`; anotar cada compromisso distinto e todas as suas ocorrências com início/fim. Preservar ataque, diagnóstico e material de mediador em classes separadas. Não contar repetição como nova ação.
+5. Rodar `selecionar_propostas.py` **antes de pesquisar exequibilidade externa**, congelar a saída em commit, e só então consultar leis, orçamentos, atos administrativos e documentos da própria campanha. Registrar emendas sem apagar a primeira leitura.
+6. Recontar com `contar_oportunidades.py` e, se houver áudio e validação de falantes suficientes, `resumir_tempo.py`. Não combinar confronto livre com perguntas comuns; apresentar todos os denominadores e cobertura incerta.
+7. Escrever matriz A, tabela B, fichas C por proposta e conclusão por questão. Identificar hipóteses, falta de dados e versões legislativas datadas. Registrar fontes primárias. Uma segunda leitura adversarial deve procurar contraexemplos e erros de transcrição.
+8. Conferir que `git status` não inclui MP4, WAV, transcrição integral, tokens nem cópias de terceiros. Publicar método, anotações derivadas, contas e relatório. O autor realiza sua própria decisão editorial; a saída automatizada obedece a `LIMITE_ELEITORAL.md`.
+
+**Campos mínimos por compromisso:** ID estável, autor, tema, ação em paráfrase, elegibilidade para C, ocorrências temporais, fonte de cada detalhe e decisão de agrupamento. **Campos mínimos por oportunidade:** ID, pergunta em paráfrase, autor/destinatário, componente pedido, tempo, classe D/P/N/I e razão da classe. Quando uma pergunta tiver dois componentes, duas linhas.
