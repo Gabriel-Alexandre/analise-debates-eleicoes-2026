@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.pyc
+*.mp4
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.log
+*.tmp
+*.bak
+dados-locais/
+
