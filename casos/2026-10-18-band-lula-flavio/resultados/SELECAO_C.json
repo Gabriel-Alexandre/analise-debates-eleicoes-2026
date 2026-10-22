@@ -1,5 +1,6 @@
 {
-  "regra": "até duas ações elegíveis por autor; duração dos intervalos anotados; desempate: ocorrências, depois primeira aparição",
+  "regra": "até duas ações elegíveis por autor; duração bruta dos intervalos anotados; desempate: ocorrências, depois primeira aparição",
+  "limite": "Os intervalos podem conter outros assuntos. Este cálculo não verifica exclusividade semântica nem prova que as ações selecionadas foram as mais longas em segundos líquidos.",
   "todos": [
     {
       "id": "F01",

@@ -5,8 +5,8 @@
 3. **Turnos:** início/fim/falante/bloco; conferência visual e textual; sobreposição ou incerteza declaradas. Publicidade e mediador têm categoria própria.
 4. **Anotação:** perguntas, componentes, respostas, compromissos e pares, cada um com IDs e tempos absolutos. Os campos são definidos no pré-registro.
 5. **Cálculo:** scripts recontam totais a partir dos arquivos anotados e rejeitam referências inexistentes ou tempos fora da fonte.
-6. **C seletiva:** lista congelada pelas regras de saliência antes da pesquisa jurídica e financeira. Fonte primária preferida; cada conclusão delimita o que o documento demonstra.
+6. **C seletiva:** lista congelada pelas regras de saliência antes da pesquisa jurídica e financeira. Para usar **duração de proposta**, os intervalos precisam ser exclusivos daquela ação, sem ataque ou outra medida dentro. O script só soma janelas anotadas e não certifica essa exclusividade. No caso Band, esta verificação falhou e a lista é apenas amostra fixa. Fonte primária preferida; cada conclusão delimita o que o documento demonstra.
 7. **Relatório:** resultados por dimensão, exemplos e contraexemplos, limites, fontes e instruções de reprodução. O próximo debate reaproveita código e método, com configuração própria.
 
-Uma citação só é pública depois de escuta do áudio no ponto indicado, com antes/depois quando houver correção. A transcrição bruta não prova a grafia de nomes ou valores.
+Uma citação só é pública depois de escuta do áudio no ponto indicado, com antes/depois quando houver correção. A transcrição bruta não prova a grafia de nomes ou valores. Uma taxa de respostas exige inventário completo das perguntas de cada estrato; perguntas omitidas invalidam o denominador mesmo que o script reconta corretamente as linhas presentes. Três saídas do mesmo modelo de ASR não constituem revisão independente.
 

@@ -1,5 +1,7 @@
 # Seleção C congelada antes da pesquisa externa
 
+> **Auditoria posterior (19/out):** esta tabela preserva a primeira seleção e seus intervalos brutos. A segunda passada encontrou outros assuntos dentro de algumas janelas. Os quatro IDs são uma amostra fixada antes das fontes, mas o ranking por segundos exclusivos **não foi demonstrado**. Ver [auditoria](../casos/2026-10-18-band-lula-flavio/AUDITORIA_SEGUNDA_PASSADA.md) e [emendas](EMENDAS.md). As expressões “maior duração” abaixo descrevem a justificativa da primeira versão, não uma conclusão vigente.
+
 **Data:** 19/out/2026. **Base:** anotação do debate completo em `casos/2026-10-18-band-lula-flavio/anotacoes/COMPROMISSOS.csv`. As durações são dos intervalos em que a ação foi apresentada ou defendida, não do tempo total do candidato nem da importância política. O script `ferramentas/selecionar_propostas.py` e a saída `resultados/SELECAO_C.json` preservam todos os candidatos à seleção e o desempate. A transcrição automática e a identificação dos falantes ainda têm pontos incertos; correções com impacto de seleção terão emenda datada, sem substituição silenciosa.
 
 | Candidato | Ação escolhida | Duração anotada | Por que entra |

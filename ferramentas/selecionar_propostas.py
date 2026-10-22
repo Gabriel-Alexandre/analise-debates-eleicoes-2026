@@ -1,4 +1,4 @@
-"""Aplica a regra temporal do pré-registro sem consultar fontes externas."""
+"""Ordena janelas anotadas, sem certificar segundos exclusivos de proposta."""
 
 from __future__ import annotations
 
@@ -40,7 +40,8 @@ def ordenar(caminho: Path) -> dict:
         ranking[pessoa] = sorted((r for r in registro if r["autor"] == pessoa and r["elegivel_c"]),
                                  key=lambda r: (-r["tempo_apresentacao_s"],
                                                 -r["numero_ocorrencias"], r["primeira_aparicao_s"]))
-    return {"regra": "até duas ações elegíveis por autor; duração dos intervalos anotados; desempate: ocorrências, depois primeira aparição",
+    return {"regra": "até duas ações elegíveis por autor; duração bruta dos intervalos anotados; desempate: ocorrências, depois primeira aparição",
+            "limite": "Os intervalos podem conter outros assuntos. Este cálculo não verifica exclusividade semântica nem prova que as ações selecionadas foram as mais longas em segundos líquidos.",
             "todos": registro, "selecionados": {p: [r["id"] for r in lista[:2]] for p, lista in ranking.items()},
             "ranking_elegiveis": {p: [r["id"] for r in lista] for p, lista in ranking.items()}}
 
