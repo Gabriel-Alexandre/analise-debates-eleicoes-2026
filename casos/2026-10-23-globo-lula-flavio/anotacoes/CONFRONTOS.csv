@@ -1,0 +1,79 @@
+id,tempo_aprox,quem_fala,sobre_quem,bloco,parafrase,momento_imprensa,veiculos
+C01,07:12,Flávio,Lula,1 infraestrutura,"cita 11,5 mil obras paralisadas segundo o TCU e diz que o Brasil voltou a ser um cemitério de obras",20 obras paralisadas,4
+C02,08:35,Lula,Flávio,1 infraestrutura,"diz que o adversário não conhece o Brasil e que o governo herdou 6 mil obras paradas",20 obras paralisadas,4
+C03,11:40,Lula,Flávio,1 infraestrutura,"compara o adversário ao aluno que decora para o vestibular e não aprende",18 dá um Google,4
+C04,12:41,Lula,Flávio,1 infraestrutura,"pede que alguém procure no Google se algum governo investiu tanto em infraestrutura",18 dá um Google,4
+C05,13:21,Lula,Flávio,1 Sudeste,"pergunta se o adversário sabe quanto seria o salário mínimo sem a política do PT",6 salário mínimo,7
+C06,14:03,Flávio,Lula,1 Sudeste,"pergunta se o salário de quem assiste já acabou e por que o governo endividou o povo",5 custo de vida,7
+C07,14:45,Lula,Flávio,1 Sudeste,"diz que sem a política do PT o mínimo seria 900 reais e cita o governo do pai do adversário",6 salário mínimo,7
+C08,16:50,Lula,Flávio,1 Sudeste,"pergunta se o adversário é contra ou a favor da tarifa zero nos fins de semana",22 tarifa zero,3
+C09,17:31,Flávio,Lula,1 Sudeste,"diz ser a favor da tarifa zero e que Lula dá com uma mão e tira com os nove dedos",1 nove dedos,13
+C10,18:13,Flávio,Lula,1 Sudeste,"fala do IVA, do carrinho de compras e da embalagem menor como legado do governo",5 custo de vida,7
+C11,21:00,Flávio,Lula,1 Centro-Oeste,"pergunta por que Lula trata o agro com raiva e o chama de fascista",,0
+C12,21:43,Lula,Flávio,1 Centro-Oeste,"manda dar um Google e diz que o adversário estuda para decorar e não para saber",18 dá um Google,4
+C13,22:26,Lula,Flávio,1 Centro-Oeste,"diz que o adversário ficou lambendo o Trump para taxar o Brasil",26 Trump,2
+C14,22:50,Lula e Flávio,um ao outro,1 Centro-Oeste,"Lula fala da bobagem que esse jovem fala; Flávio responde sobre preconceito com quem é jovem",,0
+C15,25:17,Flávio,Lula,1 Centro-Oeste,"pergunta qual foi a última vez que Lula foi ao supermercado",5 custo de vida,7
+C16,25:30,Lula,Flávio,1 Centro-Oeste,"diz que o adversário fala baixo, não diz coisa com coisa e não sabe o que é fome",,0
+C17,27:26,Lula,Flávio,1 Sul,"cita o tesouraço e a motosserra do Milei e pergunta se o adversário reajustará o mínimo acima da inflação",24 tesouraço; 15 Milei; 6 salário mínimo,7
+C18,28:34,Flávio,Lula,1 Sul,"diz que reajustará o mínimo acima da inflação, não privatizará BB, Caixa e Petrobras e chama isso de fake news",6 salário mínimo,7
+C19,28:51,Flávio,Lula,1 Sul,"diz que Lula mora num palácio de luxo e defende o governo Milei",15 Milei,5
+C20,29:31,Lula,Flávio,1 Sul,"diz que o adversário nunca responde a pergunta e cobra se vai ou não cortar o aumento do mínimo",6 salário mínimo,7
+C21,30:53,Flávio,Lula,1 Sul,"diz que Lula virou as costas para o Rio Grande do Sul nas enchentes",,0
+C22,33:37,Lula,Flávio,1 Norte,"diz que o adversário só ouviu falar de Manaus quando o pai imitou alguém sem oxigênio",9 pandemia,6
+C23,34:22,Lula,Flávio,1 Norte,"manda perguntar ao Google e fala em ser mordido pelo carapanã",18 dá um Google,4
+C24,34:58,Flávio,Lula,1 Norte,"diz ter dificuldade de entender o que Lula fala e pergunta quem governa o Brasil, ele ou o Google",21 idade e voz; 18 dá um Google,4
+C25,37:12,Lula,Flávio,1 Norte,"diz que o que o adversário falou é o contrário do que o governo dele fez na Amazônia",,0
+C26,38:44,Lula,Flávio,1 Norte,"pede um mínimo de seriedade ao adversário",,0
+C27,40:21,Lula,Flávio,1 Nordeste,"diz que o adversário não gosta do Nordeste e pergunta qual a bondade decorada",13 Nordeste,5
+C28,41:04,Flávio,Lula,1 Nordeste,"diz que será o carioca mais nordestino, que o vídeo do pai foi tirado de contexto e que Lula levou o Comando Vermelho ao Nordeste",13 Nordeste; 9 pandemia,6
+C29,43:13,Lula,Flávio,1 Nordeste,"pergunta o que o governo do adversário fez no Nordeste",13 Nordeste,5
+C30,43:55,Flávio,Lula,1 Nordeste,"diz que foi Bolsonaro quem concluiu a transposição e elevou o Bolsa Família a 600 reais",27 transposição,2
+C31,52:25,Lula,Flávio,2 políticas sociais,"pergunta por que o adversário foi o único deputado estadual a votar contra a ampliação da licença-maternidade",4 licença-maternidade,7
+C32,52:59,Flávio,Lula,2 políticas sociais,"diz que votou acreditando que dificultaria o emprego das mulheres, que estava errado e que hoje votaria diferente",4 licença-maternidade,7
+C33,53:09,Lula,Flávio,2 políticas sociais,"diz que o adversário não votou quando podia e pergunta por que chamou o Bolsa Família de bolsa farelo",4 licença-maternidade; 16 bolsa farelo,7
+C34,54:34,Flávio,Lula,2 políticas sociais,"diz que Lula não usa o tempo porque não quer",19 tempo e regras,4
+C35,55:17,Lula,Flávio,2 políticas sociais,"diz que perdeu o dedo trabalhando aos 17 anos, chama o adversário de miliciano e de grã-fino e diz que ele nunca trabalhou",1 nove dedos; 10 nunca trabalhou; 17 milícias,13
+C36,56:22,Flávio,Lula,2 políticas sociais,"pede desculpas pelo nove dedos e pergunta se Lula pedirá desculpas a moradores de rua e endividados",1 nove dedos,13
+C37,59:31,Lula,Flávio,2 direito de resposta,"diz que quem tem que pedir desculpa ao Brasil é a elite",1 nove dedos,13
+C38,60:12,Flávio,Lula,2 direito de resposta,"diz que Lula parou no tempo",29 parou no tempo,1
+C39,61:34,Flávio,Lula,2 dívida pública,"diz que o governo deixa dívida de 11 trilhões e pergunta por que endividou as famílias",,0
+C40,62:56,Lula,Flávio,2 dívida pública,"pergunta por que o grupo do adversário fez o Banco Central independente",,0
+C41,64:58,Lula,Flávio,2 dívida pública,"diz que a compra de dívidas proposta pelo adversário copia a medida que o governo já mandou",,0
+C42,68:23,Lula,Flávio,2 SUS,"diz que o escolhido do adversário para a saúde não quer pôr dinheiro no SUS e cita as mortes da covid",9 pandemia,6
+C43,69:45,Flávio,Lula,2 SUS,"diz que o tesouraço será na corrupção e pergunta por que Lula votou contra a Constituição de 1988",,0
+C44,70:25,Lula,Flávio,2 SUS,"cita a vacina que ia virar jacaré e a imitação de pessoas sufocando e diz que o adversário vai privatizar o SUS",9 pandemia,6
+C45,72:27,Flávio,Lula,2 SUS,"diz que o pai foi salvo pelo SUS e que o governo não atualizou a tabela SUS",9 pandemia,6
+C46,80:50,Flávio,Lula,3 endividamento,"diz que Lula prometeu picanha e entregou abóbora e pergunta se ele acha a comida barata",5 custo de vida,7
+C47,81:31,Flávio,Lula,3 endividamento,"diz que Lula enrolou o povo com o Desenrola",5 custo de vida,7
+C48,82:52,Flávio,Lula,3 endividamento,"diz que Lula prometeu a picanha e não entregou e está entregando dívida",5 custo de vida,7
+C49,86:15,Lula,Flávio,3 endividamento,"diz que o adversário é contra acabar com as apostas",8 bets e tigrinho,6
+C50,88:21,Flávio,Lula,3 ensino integral,"chama Lula de pai do Tigrinho e diz que ele zerou o orçamento do ensino integral",8 bets e tigrinho,6
+C51,89:01,Lula,Flávio,3 ensino integral,"diz que o pai do adversário criou o Tigrinho e que ele é o irmão",8 bets e tigrinho,6
+C52,91:44,Flávio,Lula,3 ensino integral,"diz que Lula deu uma enrolada e que é mentira que vai acabar com o pé de meia",,0
+C53,94:27,Flávio,Lula,3 retomada de territórios,"cobra Lula pelas saidinhas, pela maioridade penal e pela classificação de facções como terroristas",11 segurança,6
+C54,95:08,Lula,Flávio,3 retomada de territórios,"cita a mãe de Ana Clara na plateia e pergunta o que leva um senador a defender o policial acusado",3 Ana Clara,8
+C55,96:28,Flávio,Lula,3 retomada de territórios,"dirige-se à mãe chamando-a pelo nome da filha, presta solidariedade e diz confiar que não foi o policial",3 Ana Clara,8
+C56,97:09,Flávio,Lula,3 retomada de territórios,"diz que Lula não combate as facções e promete pena mínima para roubo de celular, maioridade de 14 anos para estupro e castração química",11 segurança,6
+C57,98:33,Flávio,Lula,3 retomada de territórios,"pergunta por que Lula defende ladrão de celular",11 segurança,6
+C58,99:23,Lula,Flávio,3 retomada de territórios,"diz que todos conhecem os discursos do adversário defendendo milicianos",17 milícias,4
+C59,100:06,Lula,Flávio,3 retomada de territórios,"diz que o adversário quer entregar o país ao Trump e fala em acabar com a polícia ao explicar o ministério",30 acabar com a polícia,1
+C60,107:29,Lula,Flávio,4 livre,"pergunta como o adversário e o advogado dele tomaram a ilha do Richarlison",7 ilha de Richarlison,6
+C61,108:54,Flávio,Lula,4 livre,"diz que a ilha nunca foi do jogador, que a Justiça decidiu e pergunta como Lula vai acabar com a polícia",7 ilha; 30 acabar com a polícia,6
+C62,111:02,Flávio,Lula,4 livre,"pergunta qual o gostinho do uísque de 500 mil reais",14 uísque,5
+C63,111:49,Lula,Flávio,4 livre,"diz que o adversário mente e que ele criou um banqueiro que Lula fez prisioneiro",2 Master e Vorcaro,9
+C64,113:20,Flávio,Lula,4 livre,"diz que cada dose do uísque vale 70 Bolsas Família e cita a Covaxin",14 uísque,5
+C65,114:52,Lula e Flávio,um ao outro,4 livre,"troca rápida sobre quem é amigo de Vorcaro; Lula cobra os 134 milhões do filme",2 Master e Vorcaro,9
+C66,115:36,Flávio,Lula,4 livre,"cita o relatório da PF sobre o filme e cobra 30 milhões que teriam ido ao Instituto Lula",2 Master e Vorcaro,9
+C67,116:21,Lula,Flávio,4 livre,"diz que o grupo do adversário criou o banqueiro do Master, que corrompeu a República, e que ele é um deles",2 Master e Vorcaro,9
+C68,117:03,Flávio,Lula,4 livre,"cita fundos de pensão investindo no Master e propina",2 Master e Vorcaro,9
+C69,117:46,Lula,Flávio,4 livre,"volta à Covaxin e diz que o adversário estava no barco",14 uísque,5
+C70,118:28,Flávio,Lula,4 livre,"diz que Lula mente e cobra o imóvel de Jonas Suassuna no endereço do filho",12 Lulinha,5
+C71,119:08,Lula,Flávio,4 livre,"diz que entregou seus documentos ao TSE e desafia o adversário a entregar os dele",25 sigilos,2
+C72,120:35,Flávio,Lula,4 livre,"diz que a vida de Lula é um laranjal e cita o sítio e o triplex",12 Lulinha,5
+C73,121:18,Lula,Flávio,4 livre,"desafia a abrir as contas dos dois e pergunta como o adversário comprou uma casa de 10 milhões",25 sigilos; 28 casa,2
+C74,122:00,Flávio,Lula,4 livre,"cobra o sigilo do cartão corporativo, as indicações ao Supremo e a picanha que virou abóbora",5 custo de vida; 25 sigilos,7
+C75,122:41,Lula,Flávio,4 livre,"diz que o adversário foi educado para mentir e que será desmascarado no domingo",,0
+C76,123:21,Flávio,Lula,4 livre,"diz que Lula perde a linha e cita o filho na Espanha e Roberta Luchsinger",12 Lulinha,5
+C77,124:45,Lula,Flávio,considerações finais,"manda procurar no Google o gasto com cartão corporativo e diz que um miliciano pode governar o país",17 milícias; 18 dá um Google,4
+C78,126:56,Flávio,Lula,direito de resposta,"diz que nunca foi investigado por milícia",17 milícias,4

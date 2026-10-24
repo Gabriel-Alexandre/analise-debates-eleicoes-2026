@@ -10,6 +10,15 @@ O estudo separa três perguntas:
 
 Tempo de fala, número de temas e quantidade de propostas são medidas descritivas. Não equivalem por si a qualidade de governo. A análise de cada dimensão vem com denominador, exemplo e tempo no vídeo. O projeto não avalia intenção privada, recomendação de voto ou mérito geral das candidaturas.
 
+## Segundo caso: o debate da Globo (23/out/2026)
+
+Um **relatório** do debate e da repercussão, sem a análise A/B/C do primeiro caso: os confrontos, 10 trechos escolhidos por regra publicada antes, o que os checadores publicaram, o mercado, as redes e o 2º turno, com a fonte de cada item.
+
+- [Resumo em linguagem simples](casos/2026-10-23-globo-lula-flavio/RESUMO_SIMPLES.md)
+- [Relatório](casos/2026-10-23-globo-lula-flavio/RELATORIO.md)
+- [Pré-registro do caso](casos/2026-10-23-globo-lula-flavio/PRE_REGISTRO.md) e [emendas](casos/2026-10-23-globo-lula-flavio/EMENDAS.md)
+- [Os confrontos e os 10 trechos](casos/2026-10-23-globo-lula-flavio/SELECAO_TRECHOS.md)
+
 ## Primeiro caso publicado
 
 - [Resumo em linguagem simples](casos/2026-10-18-band-lula-flavio/RESUMO_SIMPLES.md)
