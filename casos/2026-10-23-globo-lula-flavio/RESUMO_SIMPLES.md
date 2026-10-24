@@ -6,7 +6,7 @@ O último debate entre Lula e Flávio Bolsonaro antes do 2º turno ficou pouco m
 
 **Os momentos mais citados:** os *"nove dedos"* e a resposta do Lula com *"miliciano"*, o Banco Master e o Vorcaro, o caso Ana Clara, o salário mínimo, o custo de vida e a licença-maternidade.
 
-**Checadores:** 6 publicaram checagens das falas, cada um com as próprias etiquetas, e eles discordam entre si em algumas falas. Os números de cada um estão no relatório, lado a lado.
+**Checadores:** 7 páginas de checagem, cada uma com as próprias etiquetas, e elas discordam entre si em algumas falas. Nas 6 que usam etiqueta de falso, o Flávio teve mais falas marcadas como falsas que o Lula. Os números de cada uma estão no relatório, lado a lado.
 
 **Mercado:** não teve pregão entre o debate e a eleição, então não existe reação do mercado ao debate para medir.
 
